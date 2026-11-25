@@ -1,0 +1,1 @@
+"""SyncSentinel foundation package."""
